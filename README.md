@@ -57,5 +57,5 @@ Projeto desenvolvido durante as aulas de Introdução á Engenharia e ao Metódo
 ## Contato
 
 Para mais informações, entre em contato:
-Victor Augusto
-**VictorAugusto4096@outlook.com**
+* Victor Augusto; 
+* **VictorAugusto4096@outlook.com**;
